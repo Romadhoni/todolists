@@ -60,7 +60,7 @@ const App = () => {
 
   return (
     <div id="todo-list">
-      <h1>Todo List</h1>
+      <h1>My Todo List</h1>
       <form onSubmit={handleSubmit}>
         <input
           type="text"
